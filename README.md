@@ -1,16 +1,55 @@
-## Hi there 👋
+# Hi 👋, I'm Ram Babu Patel
 
-<!--
-**rambabupatel10/rambabupatel10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Aspiring Software Engineer | Java Developer | DSA Enthusiast
 
-Here are some ideas to get you started:
+🎓 Computer Science & Engineering Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Passionate about solving complex problems through Data Structures & Algorithms.
+
+🌱 Currently focused on:
+
+* Data Structures & Algorithms
+* Competitive Programming
+* Java Development
+* System Design Fundamentals
+* Backend Development
+
+🎯 Goal:
+To build strong problem-solving skills and secure a Software Engineering role at top product-based companies such as Google, Microsoft, Amazon, and other leading tech organizations.
+
+### 📈 Current Progress
+
+* Solving LeetCode problems daily
+* Practicing DSA in Java
+* Building development projects
+* Strengthening Computer Science fundamentals
+
+### 🛠️ Tech Stack
+
+**Languages**
+
+* Java
+* HTML
+* CSS
+* java-Script
+
+**Core Subjects**
+
+* Data Structures & Algorithms
+* Object-Oriented Programming
+* Operating Systems
+* Database Management Systems
+* Computer Networks
+
+### 🔥 LeetCode Journey
+
+Consistent practice and continuous learning.
+
+### 📫 Connect With Me
+
+* GitHub: https://github.com/rambabupatel10
+* LinkedIn: https://linkedin.com/in/rambabupatel/
+
+---
+
+> “Consistency beats intensity. Small progress every day leads to remarkable results.”
