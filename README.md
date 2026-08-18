@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ram Babu Patel</h1>
 
 <h3 align="center">
-Aspiring Software Engineer | DSA • Competitive Programming • MERN Stack Development
+Aspiring Software Engineer | DSA | MERN Stack Development
 </h3>
 
 <p align="center">
